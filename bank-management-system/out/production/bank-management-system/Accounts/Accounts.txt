@@ -1,0 +1,4 @@
+müşteri id  -hesap id    -miktar    - birim 
+0 0 5477 TL
+1 1 2751 TL
+2 2 3000 TL

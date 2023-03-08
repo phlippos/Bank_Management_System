@@ -1,0 +1,4 @@
+id    -name    -surname    -TC          -doğum tarihi    -telefon numarası        -password
+0 cihagnir kılgı 12345678912 1980-10-10 05315245798 a
+1 ahmet efe 12378945678 1983-10-10 05314589452 abc
+2 ayberk kılgı 12312378945 1970-02-03 05489224589 gs
